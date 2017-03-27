@@ -1,0 +1,17 @@
+{
+  "name": "kmart2",
+  "authors": [
+    "Philip Cesar Garay <philipgaray2@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
